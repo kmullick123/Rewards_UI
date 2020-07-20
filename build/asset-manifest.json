@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Rewards_UI/static/css/main.5f361e03.chunk.css",
+    "main.js": "/Rewards_UI/static/js/main.ae2f05e4.chunk.js",
+    "main.js.map": "/Rewards_UI/static/js/main.ae2f05e4.chunk.js.map",
+    "runtime~main.js": "/Rewards_UI/static/js/runtime~main.d5f0e050.js",
+    "runtime~main.js.map": "/Rewards_UI/static/js/runtime~main.d5f0e050.js.map",
+    "static/css/2.d694ff75.chunk.css": "/Rewards_UI/static/css/2.d694ff75.chunk.css",
+    "static/js/2.8153baf6.chunk.js": "/Rewards_UI/static/js/2.8153baf6.chunk.js",
+    "static/js/2.8153baf6.chunk.js.map": "/Rewards_UI/static/js/2.8153baf6.chunk.js.map",
+    "index.html": "/Rewards_UI/index.html",
+    "precache-manifest.7093869b1f1c694e09d067f937198b72.js": "/Rewards_UI/precache-manifest.7093869b1f1c694e09d067f937198b72.js",
+    "service-worker.js": "/Rewards_UI/service-worker.js",
+    "static/css/2.d694ff75.chunk.css.map": "/Rewards_UI/static/css/2.d694ff75.chunk.css.map",
+    "static/css/main.5f361e03.chunk.css.map": "/Rewards_UI/static/css/main.5f361e03.chunk.css.map"
+  }
+}
